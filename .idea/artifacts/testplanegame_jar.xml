@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testplanegame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/testplanegame_jar</output-path>
+    <root id="archive" name="testplanegame.jar">
+      <element id="module-output" name="PaneWar1.0" />
+    </root>
+  </artifact>
+</component>
